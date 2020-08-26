@@ -18,6 +18,3 @@ Skills: VUE JS / NODE JS / SQLServer / MySql / MongoDB / JS / Java / C / C# /HTM
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Toto-thi&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Toto-thi)  
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toto-thi)](https://github.com/anuraghazra/github-readme-stats)
