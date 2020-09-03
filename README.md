@@ -2,9 +2,9 @@
 #### I am a self-taught full stack developer
 I'm Thinakone from Laos, I'm a computer science student at the national university of Laos, I really enjoy learning languages and framework like VueJS and Vue-Native, as well as work in VuetifyJS. I also enjoying in NodeJS and Laravel in general.
 
-Skills: VUE JS / NODE JS / SQLServer / MySql / MongoDB / JS / Java / C / C# /HTML / CSS
+Skills: VUE JS / NODE JS / MSSQL / MySql / MongoDB / JS / Java / C / C# / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Xpert Academy. 
 - 🌱 I’m currently learning DevOps 
 - 👯 I’m looking to collaborate on Wildlife and Marine life preservation project 
 - 😄 Pronouns: Toto or Thi 
