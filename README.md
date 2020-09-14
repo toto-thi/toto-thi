@@ -29,7 +29,5 @@ Connect with me:
 
 ### :zap: GitHub Stats
  
-
-![Profile views](https://gpvc.arturio.dev/Toto-thi) 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Toto-thi&show_icons=true&theme=tokyonight)
+![Profile views](https://gpvc.arturio.dev/Toto-thi) 
