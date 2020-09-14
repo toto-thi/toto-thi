@@ -27,6 +27,7 @@ Connect with me:
 
 <!--END_SECTION:activity-->
 
+### :zap: Recent GitHub Activity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Toto-thi&show_icons=true)  
 
