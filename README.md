@@ -19,9 +19,9 @@ Tools:
 <img src='https://img.icons8.com/color/2x/visual-studio.png' alt='VS' height='32'>
 <img src='https://e7.pngegg.com/pngimages/466/228/png-clipart-android-studio-integrated-development-environment-logo-android-studio-logo.png' alt='AndroidStudio' height='32'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png' alt='IntelliJ' height='32'>
-<img src='https://www.netefficiency.co.uk/media/blog/wp-content/uploads/2016/06/blog-xampp.jpg' alt='XAMMP' height='32' weight='32'>
+<img src='https://www.netefficiency.co.uk/media/blog/wp-content/uploads/2016/06/blog-xampp.jpg' alt='XAMMP' height='32' width='32'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png' alt='Vim' height='32'>
-<img src='https://miro.medium.com/max/3416/1*Txf8ugHH_MlHPM8JU6hT5w.jpeg' alt='postman' height='32' weight='32'>
+<img src='https://xebialabs.com/wp-content/uploads/files/tool-chest/postman.jpg' alt='postman' height='32'>
 
 
 Connect with me:
