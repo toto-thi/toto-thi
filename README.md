@@ -2,8 +2,6 @@
 #### I am a self-taught full stack developer
 I'm Thinakone from Laos, I'm a computer science student at the national university of Laos, I really enjoy learning languages and framework like VueJS and Vue-Native, as well as work in VuetifyJS. I also enjoying in NodeJS and Laravel in general.
 
-Skills: <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> / <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vuetify.svg" />
-/ NODE JS / MSSQL / MySql / MongoDB / JS / Java / C / C# / HTML/ CSS
 
 - 🔭 I’m currently working on Xpert Academy. 
 - 🌱 I’m currently learning DevOps 
@@ -11,7 +9,11 @@ Skills: <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-ico
 - 😄 Pronouns: Toto or Thi 
 - ⚡ Fun fact: My code is my joke 
 
-Connect me through:
+Languages: VUE JS / NODE JS / MSSQL / MySql / MongoDB / JS / Java / C / C# / HTML/ CSS
+
+[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='javascript'>]
+
+Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Toto-thi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TotoThii)  
 
