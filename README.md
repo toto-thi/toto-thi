@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thinakone</h1>
 <h3 align="center">I am a self-taught full stack developer from :laos: Lao PDR</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toto-thi" alt="toto-thi" /> </p>
-
 - 🔭 I’m currently working on **Xpert Academy Website**
 
 - 🌱 I’m currently learning **Devops**
