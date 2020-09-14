@@ -2,7 +2,7 @@
 #### I am a self-taught full stack developer
 I'm Thinakone from Laos, I'm a computer science student at the national university of Laos, I really enjoy learning languages and framework like VueJS and Vue-Native, as well as work in VuetifyJS. I also enjoying in NodeJS and Laravel in general.
 
-Skills:   VUE JS / NODE JS / MSSQL / MySql / MongoDB / https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png / Java / C / C# / HTML / CSS
+Skills:   <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vue.js icon</title><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/></svg> / NODE JS / MSSQL / MySql / MongoDB / JS / Java / C / C# / HTML / CSS
 
 - 🔭 I’m currently working on Xpert Academy. 
 - 🌱 I’m currently learning DevOps 
