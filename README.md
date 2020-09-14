@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thinakone</h1>
-<h3 align="center">I am a self-taught full stack developer from :laos: Lao PDR</h3>
+<h3 align="center">I am a self-taught full stack developer from Lao PDR</h3>
 
 - 🔭 I’m currently working on **Xpert Academy Website**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **wildlife preservation project**
 
-- 💬 Ask me about **vue, nodejs, javascript, python, c, c#**
+- 💬 Ask me about **Vue, NodeJS, JavaScript, Python, C, C#**
 
 - ⚡ Fun fact **My code is my joke**
 
