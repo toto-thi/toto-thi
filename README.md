@@ -15,18 +15,12 @@ Languages:
 
 Tools:
 
-<img src='https://img.icons8.com/fluent/2x/visual-studio-code-2019.png' alt='VSCode' height='32'>
-<img src='https://img.icons8.com/color/2x/visual-studio.png' alt='VS' height='32'>
-<img src='https://e7.pngegg.com/pngimages/466/228/png-clipart-android-studio-integrated-development-environment-logo-android-studio-logo.png' alt='AndroidStudio' height='32'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png' alt='IntelliJ' height='32'>
-<img src='https://www.netefficiency.co.uk/media/blog/wp-content/uploads/2016/06/blog-xampp.jpg' alt='XAMMP' height='32' width='32'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png' alt='Vim' height='32'>
-<img src='https://xebialabs.com/wp-content/uploads/files/tool-chest/postman.jpg' alt='postman' height='32'>
+<img src='https://img.icons8.com/fluent/2x/visual-studio-code-2019.png' alt='VSCode' height='32'> <img src='https://img.icons8.com/color/2x/visual-studio.png' alt='VS' height='32'> <img src='https://e7.pngegg.com/pngimages/466/228/png-clipart-android-studio-integrated-development-environment-logo-android-studio-logo.png' alt='AndroidStudio' height='32'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png' alt='IntelliJ' height='32'> <img src='https://www.netefficiency.co.uk/media/blog/wp-content/uploads/2016/06/blog-xampp.jpg' alt='XAMMP' height='32' width='32'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png' alt='Vim' height='32'> <img src='https://xebialabs.com/wp-content/uploads/files/tool-chest/postman.jpg' alt='postman' height='32'>
 
 
 Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Toto-thi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TotoThii)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Toto-thi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TotoThii) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/toto_thii) 
 
 
 
