@@ -30,7 +30,8 @@ Connect with me:
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
+</details>
+<details>
 <summary>:zap: GitHub Stats</summary>
  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Toto-thi&show_icons=true&theme=tokyonight)
