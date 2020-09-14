@@ -13,7 +13,7 @@ Languages:
 
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png' alt='vuejs' height='32'>
 
-<img src='' alt='vuetify' height='32'>
+<img src='https://res.cloudinary.com/vuejsprojects/image/upload/c_scale,f_auto,q_auto,w_400/v1/tag/vuetify.jpg' alt='vuetify' height='32'>
 
 <img src='https://img.icons8.com/color/2x/nodejs.png' alt='nodejs' height='32'>
 
@@ -33,9 +33,9 @@ Languages:
 
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png' alt='java' height='32'>
 
-<img src='https://img.icons8.com/ios/2x/circled-c.png' alt='c' height='32'>
+<img src='https://img.icons8.com/ios-filled/2x/circled-c.png' alt='c' height='32'>
 
-<img src='https://img.icons8.com/ios/2x/c-sharp-logo.png' alt='c#' height='32'>
+<img src='https://img.icons8.com/color/2x/c-sharp-logo.png' alt='c#' height='32'>
 
 
 Connect with me:
