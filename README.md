@@ -25,13 +25,17 @@ Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Toto-thi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TotoThii) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/toto_thii) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/toto-thi) 
 
-<summary>### :zap: Recent GitHub Activity</summary>
+<details>
+<summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-<summary>### :zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Toto-thi&show_icons=true&theme=tokyonight)
 
+</details>
+
 ![Profile views](https://gpvc.arturio.dev/Toto-thi) 
+
