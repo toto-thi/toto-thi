@@ -11,7 +11,7 @@ I'm Thinakone from Laos, I'm a computer science student at the national universi
 
 Languages: VUE JS / NODE JS / MSSQL / MySql / MongoDB / JS / Java / C / C# / HTML/ CSS
 
-[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='javascript'>]
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='javascript' height='24'>
 
 Connect with me:
 
