@@ -11,7 +11,7 @@ I'm Thinakone from Laos, I'm a computer science student at the national universi
 
 Languages: <br>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png' alt='vuejs' height='32'>
-<img src='' alt='vuetify' height='32'>
+
 <img src='https://img.icons8.com/color/2x/nodejs.png' alt='node' height='32'>
 
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png' alt='nodejs' height='32'>
