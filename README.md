@@ -9,22 +9,33 @@ I'm Thinakone from Laos, I'm a computer science student at the national universi
 - 😄 Pronouns: Toto or Thi 
 - ⚡ Fun fact: My code is my joke 
 
-Languages: <br>
+Languages: 
+
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png' alt='vuejs' height='32'>
 
-<img src='https://img.icons8.com/color/2x/nodejs.png' alt='node' height='32'>
+<img src='' alt='vuetify' height='32'>
 
-<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png' alt='nodejs' height='32'>
+<img src='https://img.icons8.com/color/2x/nodejs.png' alt='nodejs' height='32'>
+
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='javascript' height='32'>
+
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' alt='python' height='32'>
+
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='32'>
+
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='32'>
+
 <img src='' alt='mssql' height='32'>
+
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' alt='mysql' height='32'>
+
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png' alt='mongodb' height='32'>
+
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png' alt='java' height='32'>
-<img src='' alt='c' height='32'>
-<img src='' alt='c#' height='32'>
+
+<img src='https://img.icons8.com/ios/2x/circled-c.png' alt='c' height='32'>
+
+<img src='https://img.icons8.com/ios/2x/c-sharp-logo.png' alt='c#' height='32'>
 
 
 Connect with me:
