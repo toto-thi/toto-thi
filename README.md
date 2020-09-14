@@ -19,7 +19,8 @@ Tools:
 
 ### Spotify - Playing :headphones:
 
-[![Spotify](https://spotify-now-playing.toto-thi.vercel.app/api/spotify)](https://open.spotify.com/user/poxejuur7j4q1satbnxtnsljp)
+[![Spotify](https://spotify-now-playing.toto-thi.vercel.app/api/spotify)]
+(https://open.spotify.com/user/poxejuur7j4q1satbnxtnsljp)
 
 Connect with me:
 
