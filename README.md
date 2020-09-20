@@ -19,12 +19,9 @@ Tools:
 
 <img src='https://img.icons8.com/fluent/2x/visual-studio-code-2019.png' alt='VSCode' height='32'> <img src='https://img.icons8.com/color/2x/visual-studio.png' alt='VS' height='32'> <img src='https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png' alt='AndroidStudio' height='32'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png' alt='IntelliJ' height='32'> <img src='https://hackr.io/tutorials/learn-sql-server/logo/logo-sql-server?ver=1557508629' alt='mssql' height='32'> <img src='https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg' alt='mongodb' height='32'> <img src='https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png' alt='XAMMP' height='32' width='32'> <img src='https://devicon.dev/devicon.git/icons/vim/vim-original.svg' alt='Vim' height='32'> <img src='https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png' alt='postman' height='32'>
 
-### Spotify - Playing :headphones:
-[![Spotify](https://spotify-now-playing.toto-thi.vercel.app/api/spotify)](https://open.spotify.com/user/poxejuur7j4q1satbnxtnsljp)
-
 Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Toto-thi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TotoThii) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/toto_thii) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/toto-thi) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Toto-thi)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TotoThii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/toto_thii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/toto-thi) 
 
 <details>
 <summary>:zap: Recent GitHub Activity</summary>
@@ -39,4 +36,9 @@ Connect with me:
 
 </details>
 
+### Spotify - Playing :headphones:
+[![Spotify](https://spotify-now-playing.toto-thi.vercel.app/api/spotify)](https://open.spotify.com/user/poxejuur7j4q1satbnxtnsljp)
+
 ![Profile views](https://gpvc.arturio.dev/Toto-thi) 
+
+
