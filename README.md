@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thinakone</h1>
-<h3 align="center">I am a self-taught full stack developer from Lao PDR</h3>
+<h3 align="center">I am a self-taught full stack web developer from Lao PDR</h3>
 
 - 🔭 I’m currently working on **Xpert Academy Website**
 
@@ -23,12 +23,12 @@ Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Toto-thi)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TotoThii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/toto_thii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/toto-thi) 
 
-<details>
+/*<details>
 <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-</details>
+</details>*/
 <details>
 <summary>:zap: GitHub Stats</summary>
  
