@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thinakone</h1>
 <h3 align="center">I am a self-taught full stack web developer from Lao PDR</h3>
 
-- 🔭 I’m currently working on **Xpert Academy Website**
+- :setting: :hammer: I’m currently working on **Xpert Academy Website**
 
-- 🌱 I’m currently learning **Devops**
+- 📚 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **wildlife preservation project**
 
