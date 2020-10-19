@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **Devops**
 
-- :magnify: I’m looking to collaborate on **wildlife preservation project**
+- :mag: I’m looking to collaborate on **wildlife preservation project**
 
 - 💬 Ask me about **Vue, NodeJS, JavaScript, Python, C, C#**
 
