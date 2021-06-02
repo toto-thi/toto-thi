@@ -20,13 +20,6 @@ Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Toto-thi)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TotoThii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/toto_thii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/toto-thi) 
 
 
-<details>
-<summary>:zap: GitHub Stats</summary>
- 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Toto-thi&show_icons=true&theme=tokyonight)
-
-</details>
-
 ### Spotify - Playing :headphones:
 [![Spotify](https://spotify-now-playing.toto-thi.vercel.app/api/spotify)](https://open.spotify.com/user/poxejuur7j4q1satbnxtnsljp)
 
