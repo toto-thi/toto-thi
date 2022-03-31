@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thinakone</h1>
 <h3 align="center">I am a self-taught web developer from Lao PDR</h3>
 
- :computer: :hammer: I’m currently working on **Transparent & Genuine Charity Web App as my Thesis**
+ :computer: :hammer: I’m currently working on **Transparent & Genuine Charity Web App** as my Thesis
 
  📚 I’m currently learning **Devops**
 
