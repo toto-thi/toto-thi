@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thinakone</h1>
 <h3 align="center">I am a self-taught web developer from Lao PDR</h3>
 
-<a href="https://app.daily.dev/toto_thi"><img src="https://api.daily.dev/devcards/c8c9a23dc8e84faababbe02e9548158d.png?r=jph" width="400" alt="Toto's Dev Card"/></a>
+<a href="https://app.daily.dev/toto_thi"><img src="https://github.com/toto-thi/toto-thi/blob/master/devcard.svg" width="400" alt="Toto's Dev Card"/></a>
 
  :computer: :hammer: I’m currently working on **Transparent & Genuine Charity Web App** as my Thesis
 
